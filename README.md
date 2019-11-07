@@ -1,5 +1,7 @@
-# 2019BDC
-比赛地址：[2019中国高校计算机大赛——大数据挑战赛](https://www.kesci.com/home/competition/5cc51043f71088002c5b8840)
+![Image Name](https://cdn.kesci.com/upload/image/pz5m73c0tf.png)
+# 2019高校大数据挑战赛
+
+- 比赛地址：[2019高校大数据挑战赛](https://www.kesci.com/home/competition/5cb80fd312c371002b12355f)
 
 ## 赛题分析
 1. 赛题任务
