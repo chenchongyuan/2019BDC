@@ -84,3 +84,13 @@
 
 > *最后感谢我的队友（llhthinker、vhdsih）、实验室的挚友和科赛平台的工作人员* ❣️
 
+## 其他方案
+- [Rank2-蜗牛本牛](https://github.com/srtianxia/BDC2019_Top2)
+- [Rank3-鸡你太美](https://github.com/ShusenTang/BDC2019)
+- [Rank4-Fah](https://github.com/ZanyFun9/2019BDC_solution_4th)
+- [Rank5-拯救菜鸟](https://github.com/LiuYaKu/2019-rank5)
+- [Rank9-bestfitting](https://github.com/tinySean/bdc2019-rank9th)
+- [Rank11-lili](https://github.com/harrylyx/2019BigDataChallenge)
+- [Rank12-福建大三本](https://github.com/leadert/BDC2019-Rank12th-lgb-esim)
+- [Rank15-改革春风吹满地](https://github.com/P01son6415/MatchModels)
+- [chizhu](https://github.com/chizhu/BDC2019)
